@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fYGPRu6dranXPloOkqimUQ+dM4qSeI8jhhcmICb9NWA=",
+  "Source": "API_tester",
+  "BasePath": "_content/API_tester",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
